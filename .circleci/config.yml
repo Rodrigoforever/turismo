@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="_imaguen/favicon.ico" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="./_CSS/pacotes.css"> -->
+    <title>pacotes promocionais</title>
+</head>
+<body>
+
+    <p><h1>pacotes promocionais</h1></p>
+
+    <table class="table">
+      <thead class="table-dark">
+        <tr>
+          <th scope="col" >periodo da da promocao</th>
+          <th scope="col">destino</th>
+          <th scope="col">descri do pacote</th>
+          <th scope="col">local</th>
+          <th scope="col">preco (R$)</th>
+          <th></th>
+        </tr>      
+      </thead>
+          <tr>
+            <td>01/12/2021 a 10/12/2021</td>
+            <td>resort recife</td>
+            <td>com cafe da manha  - 10 noites com transalados chegada e saida </td>
+            <td><img src="_imaguen/araialnv.jpg"width= "100" height= "50" alt= "copacabana"></td>
+            <td>4.355,00</td>
+            <td> <button type="button" class="btn btn-success">comprar</button></td>
+          </tr>
+           <tr>
+            <td>05/10/2021 a 20/10/2021 </td>
+            <td>aparecida do norte-Sao paulo</td>
+            <td>passaguen de onibus ida e volta - 15 dias de turismo com cafe da manha  </td>
+            <td><img src="_imaguen/arco iris.jpg"width= "100" height= "50" alt= "aparecida do norte"></td>  
+            <td>5.855,00</td>
+            <td> <button type="button" class="btn btn-success">comprar</button></td>
+          </tr>
+          <tr>
+            <td>10/08/2021 a 25/08/2021 </td>
+            <td>resort guaruja-Sao Paulo </td>
+            <td>passaguen  ida e volta - 15 noites com transalados chegada e saida </td>
+            <td><img src="_imaguen/mar.jpg"width= "100" height= "50" alt= "guaruja"></td>
+            <td>5.755,00</td>
+            <td> <button type="button" class="btn btn-success">comprar</button></td>
+          </tr>
+          <tr>
+            <td>01/02/2021 a 08/02/2021 </td>
+            <td>resort copacabana-rio de janeiro</td>
+            <td>passaguen aerea rio de janeiro ida e volta - 7 noites com cafe da manha </td>
+            <td><img src="_imaguen/sol.jpg"width= "100" height= "50" alt= "copacabana"></td>
+            <td>2.555,00</td>
+            <td> <button type="button" class="btn btn-success">comprar</button></td> </tr>
+          <tr>
+            <td>20/06/2021 a 25/06/2021 </td>
+            <td>resort fortaleza-ceara</td>
+            <td> hospedaguem - 5 noites com cafe da manha </td>
+            <td><img src="_imaguen/jardim.jpg"width= "100" height= "50" alt= "fortaleza"></td>
+            <td>1.555,00</td>
+            <td> <button type="button" class="btn btn-success">comprar</button><p> <div class="links"><a href="lugares.html">destinos</a> </p></td> </tr>
+        </tr>
+        </tr>
+        </tr>
+      </table>
+     <br>
+       <div class="links"><a href="./index.html">voltar</a><svg xmlns="" width="16" height="16" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
+        <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
+      </svg></div>
+     
+</html>
